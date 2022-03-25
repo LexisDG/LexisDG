@@ -9,7 +9,7 @@
 
 ## Contact me
 
-<a href="mailto:alexis_dg997@protonmail.com"><img src="https://img.shields.io/badge/alexis_dg997@protonmail.com%20-%23000000.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alexis-dufour-grégoire/"><img src="https://img.shields.io/badge/Alexis%20Dufour-Grégoire%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:alexis_dg997@protonmail.com"><img src="https://img.shields.io/badge/alexis_dg997@protonmail.com%20-%23000000.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/alexis-dufour-grégoire/"><img src="https://img.shields.io/badge/Dufour-Grégoire%20Alexis%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
 <!--
 **LexisDG/LexisDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
