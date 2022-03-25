@@ -3,9 +3,8 @@
 
 <p style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=LexisDG&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="dev-stats" height="200">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexisDG&layout=compact&theme=vision-friendly-dark&)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexisDG0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
 
