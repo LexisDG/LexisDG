@@ -3,7 +3,6 @@
 
 <p style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=LexisDG&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="dev-stats" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexisDG&layout=compac&hide_border=true&count_private=true" alt="used-languages" height="200">
 </p>
 
 
