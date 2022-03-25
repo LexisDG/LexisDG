@@ -1,11 +1,11 @@
-<!--
+
 ## Stats
 
 <p style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=LexisDG&theme=github_dark&show_icons=true&hide_border=true" alt="dev-stats" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=LexisDG&layout=compact&hide_border=true&langs_count=10" alt="used-languages" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=LexisDG&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="dev-stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=LexisDG&layout=compact&hide_border=true&langs_count=10&count_private=true" alt="used-languages" height="200">
 </p>
--->
+
 
 ## Contact me
 
