@@ -2,8 +2,6 @@
 ### :man_technologist: About Me :
 
 - 🌱 I'm currently learning Computer vision and Embedded systems. 
-- 🔭 My next classes will be about Parallel computer systems, Natural language processing and Operating system security. 
-
 ---
 
 <!-- ## Stats -->
